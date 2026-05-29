@@ -1,4 +1,4 @@
-package recurs;
+package recursion;
 
 public class power {
     public static int p(int x,int n)

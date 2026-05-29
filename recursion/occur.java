@@ -1,4 +1,4 @@
-package recurs;
+package recursion;
 public class occur {
     public static int firstoccur(int[] arr,int i,int k)
     {
